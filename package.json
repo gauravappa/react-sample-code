@@ -1,0 +1,25 @@
+{
+  "name": "simple",
+  "version": "1.0.0",
+  "description": "Project for react practice",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gauravappa/react-sample-code.git"
+  },
+  "author": "Gaurav Appa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravappa/react-sample-code/issues"
+  },
+  "homepage": "https://github.com/gauravappa/react-sample-code#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
