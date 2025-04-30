@@ -33,3 +33,8 @@ there are two ways to create component
 
 functional component are just simple javascript function which returns some jsx code 
 name of these function should be in pascal case.
+
+
+instead of using React.createElement we can directly use jsx to create jsx element in js
+const heading = <h1></h1>; 
+we can write above in multiple by wrapping in () also we can add attribute just like html but only thing here is the name of attributes is in camel case that is different from snake formats
