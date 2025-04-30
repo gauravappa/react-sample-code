@@ -25,3 +25,11 @@ in package.json we hava json which is the configuration for our project (scripts
 here we can define caret ^ and tilde ~ for dependencies. versions are like major.minor.patch ~ only update patch versions ^ will update patch as well as minor versions patch is bug fixes while minor update is backward compatible with existing code old functionality is deprecated but usable. while major update will have major changes.hence package.json will not contain extact version used by application.
 
 package-lock.json will contain exact version used by application.
+
+React introduces components which is smallest independent unit of code
+there are two ways to create component
+1. functional component
+2. class based component (old way)
+
+functional component are just simple javascript function which returns some jsx code 
+name of these function should be in pascal case.
